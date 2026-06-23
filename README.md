@@ -1,6 +1,6 @@
 # Proactive Work Stealing Scheduler
 
-## Русская версия
+## Русская версия (English version below)
 
 ### Описание
 
